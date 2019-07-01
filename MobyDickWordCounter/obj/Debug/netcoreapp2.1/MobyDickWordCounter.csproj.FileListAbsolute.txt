@@ -1,0 +1,11 @@
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\bin\Debug\netcoreapp2.1\MobyDickWordCounter.deps.json
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\bin\Debug\netcoreapp2.1\MobyDickWordCounter.runtimeconfig.json
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\bin\Debug\netcoreapp2.1\MobyDickWordCounter.runtimeconfig.dev.json
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\bin\Debug\netcoreapp2.1\MobyDickWordCounter.dll
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\bin\Debug\netcoreapp2.1\MobyDickWordCounter.pdb
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\obj\Debug\netcoreapp2.1\MobyDickWordCounter.csprojAssemblyReference.cache
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\obj\Debug\netcoreapp2.1\MobyDickWordCounter.csproj.CoreCompileInputs.cache
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\obj\Debug\netcoreapp2.1\MobyDickWordCounter.AssemblyInfoInputs.cache
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\obj\Debug\netcoreapp2.1\MobyDickWordCounter.AssemblyInfo.cs
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\obj\Debug\netcoreapp2.1\MobyDickWordCounter.dll
+C:\Users\Ozkan\Desktop\MobyDickWordCounter\MobyDickWordCounter\obj\Debug\netcoreapp2.1\MobyDickWordCounter.pdb
